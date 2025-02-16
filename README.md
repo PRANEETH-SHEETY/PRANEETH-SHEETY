@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there! 👋 I'm Praneeth
 
-<!--
-**PRANEETH-SHEETY/PRANEETH-SHEETY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Robotics & AI Enthusiast | Innovator | Developer**
 
-Here are some ideas to get you started:
+I am passionate about **Robotics and Artificial Intelligence**, constantly exploring innovative applications in these fields. My focus is on building smart, autonomous systems that push the boundaries of technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Areas of Interest
+- 🤖 Robotics & Automation
+- 🧠 Machine Learning & AI
+- 🔍 Computer Vision & Deep Learning
+- 📡 IoT & Embedded Systems
+- 💻 Software Development
+
+## 🛠 Tech Stack
+- **Languages:** Python, JavaScript, C++
+- **Frameworks & Libraries:** TensorFlow, PyTorch, OpenCV, ROS
+- **Databases:** PostgreSQL, Firebase, MongoDB
+- **Tools & Platforms:** Docker, GitHub Actions, Raspberry Pi, Arduino
+
+
+
+## 📫 Connect with Me
+- GitHub: [github.com/PRANEETH-SHEETY](#)
+- Email: nnm23ri044@nmamit.in
+
+### ⭐ Let's Build the Future Together!
